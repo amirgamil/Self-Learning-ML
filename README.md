@@ -1,7 +1,7 @@
 # Self-Learning-ML
 A hitchhikers' guide to practical tips, motivation, and some of the best advice from the most distinguished people in the field all in one place.
 
-I've been doing a lot of reading recently about how to get started in AI, which seems to be the question on everyone's mind. After crawling through hundreds of news of articles as procrastination (instead of actually working so I'll keep this brief), I've decided to create a list of resources I found with the best advice on how to get started. 
+I've been doing a lot of reading recently about how to get started in AI, which seems to be the question on everyone's mind. After crawling through hundreds of news of articles as procrastination, I've decided to create a list of resources I found with the best advice on how to get started. 
 
 *Disclaimer, this is not conclusive and I will update it regularly as I find more stuff.*
 
