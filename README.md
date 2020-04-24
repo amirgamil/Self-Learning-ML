@@ -27,5 +27,4 @@ Start here:
 5. [CS 229 Assignments](https://github.com/zhixuan-lin/cs229-ps-2018) which are not linked on their [website](http://cs229.stanford.edu/) but they just released their [videos](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) for the 2018 iteration of the course
 6. [Intuitive explanations to papers](https://blog.acolyer.org/)
 
-And maybe most importantly:
 
