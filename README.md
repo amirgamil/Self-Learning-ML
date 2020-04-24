@@ -28,4 +28,5 @@ Start here:
 6. [Intuivtive explanations to papers](https://blog.acolyer.org/)
 
 And maybe most importantly of all:
+[https://imgflip.com/i/3y0y76]
 
